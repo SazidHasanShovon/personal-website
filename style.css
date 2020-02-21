@@ -1,0 +1,30 @@
+h1{
+   font-size: 25px;
+   color: rgb(255, 123, 0);
+}
+.boss{
+   font-size: 40px;
+   color: rgba(204, 0, 255, 0.795);
+   font-family: 'Trade Winds' ;}
+   body{
+      font-family: 'Trade Winds', ;
+      font-family: 'Poppins', ;
+      margin: 0px;
+   }
+   .half-width{
+      width: 30%;
+      float: left;
+      margin: 3%;
+      padding-left: 5%;
+
+   }
+   .half-width img{
+      width: 100%
+   }
+.top-banner{
+   background-image: url("images/header-bg.png");
+   background-repeat: no-repeat;
+}
+section{
+   height: 700px;
+}
